@@ -1,0 +1,28 @@
+{
+  "name": "isp",
+  "version": "1.0.0",
+  "description": "example for interface segregation principle",
+  "main": "book-formatting.service.test.js",
+  "scripts": {
+    "test": "mocha after/book-formatting.service.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Technology-Agnostic/ISP.git"
+  },
+  "keywords": [
+    "solid",
+    "interface",
+    "segregation",
+    "principle"
+  ],
+  "author": "technology agnostic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Technology-Agnostic/ISP/issues"
+  },
+  "homepage": "https://github.com/Technology-Agnostic/ISP#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}

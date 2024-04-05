@@ -2,7 +2,7 @@
 
 ## Interface Segregation Principle
 
-Example of fix for interface segregation principle violation. Unit tests files are "entry points" here.
+Example of fix for interface segregation principle violation. Controller of books violates ISP by merging all books lists into single construction. Unit tests files are "entry points" here.
 
 ### Setup
 
